@@ -1,4 +1,4 @@
-schlosslab.github.io
+Jangjay Sohn 
 ====================
 
-The website for the Schloss Lab at the University of Michigan
+The website for Jangjay Sohn
